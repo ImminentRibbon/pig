@@ -15,7 +15,7 @@
 
     <properties>
         <pig.common.version>${project.version}</pig.common.version>
-        <spring-boot.version>3.1.2</spring-boot.version>
+        <spring-boot.version>3.2.0-M1</spring-boot.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <log4j2.version>2.17.1</log4j2.version>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -129,7 +129,7 @@
                 <artifactId>excel-spring-boot-starter</artifactId>
                 <version>${excel.version}</version>
             </dependency>
-            <!-- 多数据源依赖 -->  
+            <!-- 多数据源依赖 -->
             <dependency>
                 <groupId>com.baomidou</groupId>
                 <artifactId>dynamic-datasource-spring-boot3-starter</artifactId>

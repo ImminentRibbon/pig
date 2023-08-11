@@ -1,13 +1,13 @@
 ### 核心依赖
 
-| 依赖                   | 版本         |
-| ---------------------- |------------|
-| Spring Boot            | 3.1.2      |
-| Spring Cloud           | 2022.0.4   |
-| Spring Cloud Alibaba   | 2022.0.0.0 |
-| Spring Authorization Server | 1.1.1      |
-| Mybatis Plus           | 3.5.3.2    |
-| hutool                 | 5.8.21     |
+| 依赖                   | 版本          |
+| ---------------------- |-------------|
+| Spring Boot            | 3.2.0-M1    |
+| Spring Cloud           | 2023.0.0-M1 |
+| Spring Cloud Alibaba   | 2022.0.0.0  |
+| Spring Authorization Server | 1.1.1       |
+| Mybatis Plus           | 3.5.3.2     |
+| hutool                 | 5.8.21      |
 
 ### 模块说明
 
