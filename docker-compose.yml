@@ -46,7 +46,7 @@ services:
     hostname: pig-gateway
     image: pig-gateway
     networks:
-      - spring_cloud_default
+      - spring_cl_oud_default
 
   pig-auth:
     build:
